@@ -1,2 +1,0 @@
-Envoie sur github
-Envoie sur VScode
